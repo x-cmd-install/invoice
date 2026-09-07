@@ -5,13 +5,13 @@ about:
   head: 0fb2e9d
   archived: false
   latestVersion: "v0.1.0"
-  collectedAt: 2026-09-07T04:22:58Z
+  collectedAt: 2026-09-07T20:02:47Z
 timeline:
   created: 2023-06-11
   lastCommit: 2023-11-30
   lastRelease: 2023-06-29
 popularity:
-  star: 2192
+  star: 2193
   watcher: 18
   fork: 115
   release: 1
@@ -79,7 +79,7 @@ total:
   commit: 45
 ---
 path: /home/runner/.x-repo/github.com/maaslalani/invoice
-collectedAt: 2026-09-07T04:22:59Z
+collectedAt: 2026-09-07T20:02:49Z
 loc:
   Go:
     code: 398
@@ -105,7 +105,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T04:23:00+00:00
+  collectedAt: 2026-09-07T20:02:50+00:00
   platform:
     darwin/arm64:
       name:  invoice_0.1.0_darwin_arm64.tar.gz
