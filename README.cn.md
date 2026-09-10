@@ -4,7 +4,7 @@
 
 Command line invoice generator
 
-![invoice](https://repo.x-cmd.io/invoice.svg)
+![invoice](https://repo.x-cmd.io/invoice.svg?lang=zh)
 
 ## 安装
 
@@ -22,11 +22,24 @@ x install invoice
 - **最新版本**: `v0.1.0` (2023-06-29)
 - **最近提交**: 2023-11-30
 - **Release 含资产**: 9 个
-- **发布时间**: 2023-06-29T02:55:31Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [invoice_0.1.0_checksums.txt](https://github.com/maaslalani/invoice/releases/download/v0.1.0/invoice_0.1.0_checksums.txt) | 796 B | `other` |
+| [invoice_0.1.0_darwin_amd64.tar.gz](https://github.com/maaslalani/invoice/releases/download/v0.1.0/invoice_0.1.0_darwin_amd64.tar.gz) | 3.5 MiB | `native/darwin/x64` |
+| [invoice_0.1.0_darwin_arm64.tar.gz](https://github.com/maaslalani/invoice/releases/download/v0.1.0/invoice_0.1.0_darwin_arm64.tar.gz) | 3.4 MiB | `native/darwin/arm64` |
+| [invoice_0.1.0_linux_386.tar.gz](https://github.com/maaslalani/invoice/releases/download/v0.1.0/invoice_0.1.0_linux_386.tar.gz) | 3.2 MiB | `native/unknown` |
+| [invoice_0.1.0_linux_amd64.tar.gz](https://github.com/maaslalani/invoice/releases/download/v0.1.0/invoice_0.1.0_linux_amd64.tar.gz) | 3.4 MiB | `native/linux/x64` |
+| [invoice_0.1.0_linux_arm64.tar.gz](https://github.com/maaslalani/invoice/releases/download/v0.1.0/invoice_0.1.0_linux_arm64.tar.gz) | 3.2 MiB | `native/linux/arm64` |
+| [invoice_0.1.0_windows_386.tar.gz](https://github.com/maaslalani/invoice/releases/download/v0.1.0/invoice_0.1.0_windows_386.tar.gz) | 3.4 MiB | `native/win/x64` |
+| [invoice_0.1.0_windows_amd64.tar.gz](https://github.com/maaslalani/invoice/releases/download/v0.1.0/invoice_0.1.0_windows_amd64.tar.gz) | 3.5 MiB | `native/win/x64` |
+| [invoice_0.1.0_windows_arm64.tar.gz](https://github.com/maaslalani/invoice/releases/download/v0.1.0/invoice_0.1.0_windows_arm64.tar.gz) | 3.2 MiB | `native/win/arm64` |
 
 ## 流行度
 
-- **Star**: 2,193 · **Fork**: 115 · **开放 issue**: 24 · **贡献者**: 7
+- **Star**: 2,193 · **Fork**: 114 · **开放 issue**: 24 · **贡献者**: 7
 
 ## 累计统计
 
@@ -59,4 +72,4 @@ invoice 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:29:13Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:07:25Z._

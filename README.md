@@ -22,11 +22,24 @@ x install invoice
 - **Latest**: `v0.1.0` (2023-06-29)
 - **Last commit**: 2023-11-30
 - **Assets in release**: 9
-- **Published**: 2023-06-29T02:55:31Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [invoice_0.1.0_checksums.txt](https://github.com/maaslalani/invoice/releases/download/v0.1.0/invoice_0.1.0_checksums.txt) | 796 B | `other` |
+| [invoice_0.1.0_darwin_amd64.tar.gz](https://github.com/maaslalani/invoice/releases/download/v0.1.0/invoice_0.1.0_darwin_amd64.tar.gz) | 3.5 MiB | `native/darwin/x64` |
+| [invoice_0.1.0_darwin_arm64.tar.gz](https://github.com/maaslalani/invoice/releases/download/v0.1.0/invoice_0.1.0_darwin_arm64.tar.gz) | 3.4 MiB | `native/darwin/arm64` |
+| [invoice_0.1.0_linux_386.tar.gz](https://github.com/maaslalani/invoice/releases/download/v0.1.0/invoice_0.1.0_linux_386.tar.gz) | 3.2 MiB | `native/unknown` |
+| [invoice_0.1.0_linux_amd64.tar.gz](https://github.com/maaslalani/invoice/releases/download/v0.1.0/invoice_0.1.0_linux_amd64.tar.gz) | 3.4 MiB | `native/linux/x64` |
+| [invoice_0.1.0_linux_arm64.tar.gz](https://github.com/maaslalani/invoice/releases/download/v0.1.0/invoice_0.1.0_linux_arm64.tar.gz) | 3.2 MiB | `native/linux/arm64` |
+| [invoice_0.1.0_windows_386.tar.gz](https://github.com/maaslalani/invoice/releases/download/v0.1.0/invoice_0.1.0_windows_386.tar.gz) | 3.4 MiB | `native/win/x64` |
+| [invoice_0.1.0_windows_amd64.tar.gz](https://github.com/maaslalani/invoice/releases/download/v0.1.0/invoice_0.1.0_windows_amd64.tar.gz) | 3.5 MiB | `native/win/x64` |
+| [invoice_0.1.0_windows_arm64.tar.gz](https://github.com/maaslalani/invoice/releases/download/v0.1.0/invoice_0.1.0_windows_arm64.tar.gz) | 3.2 MiB | `native/win/arm64` |
 
 ## Popularity
 
-- **Stars**: 2,193 · **Forks**: 115 · **Open issues**: 24 · **Contributors**: 7
+- **Stars**: 2,193 · **Forks**: 114 · **Open issues**: 24 · **Contributors**: 7
 
 ## Totals (cumulative)
 
@@ -55,8 +68,8 @@ Total: **398** lines of code across **13** files in the top 5 languages.
 Install metadata for invoice lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `invoice` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/invoice.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/invoice.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T04:29:13Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:07:24Z._
