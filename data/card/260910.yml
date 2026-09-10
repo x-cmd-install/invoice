@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.1.0"
   latestRelease: "v0.1.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T04:29:07Z
+  collectedAt: 2026-09-10T16:07:10Z
 timeline:
   created: 2023-06-11
   lastCommit: 2023-11-30
@@ -17,7 +17,7 @@ timeline:
 popularity:
   star: 2193
   watcher: 18
-  fork: 115
+  fork: 114
   release: 1
   contributor: 7
   pullRequest: 30
@@ -83,7 +83,7 @@ total:
   commit: 45
 ---
 path: /home/runner/.x-repo/github.com/maaslalani/invoice
-collectedAt: 2026-09-10T04:29:08Z
+collectedAt: 2026-09-10T16:07:14Z
 loc:
   Go:
     code: 398
