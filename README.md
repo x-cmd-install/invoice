@@ -12,6 +12,16 @@ Command line invoice generator
 x install invoice
 ```
 
+## Code insight
+
+Total: **398** lines of code across **13** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Go | 398 | 2 | 70 | 4 |
+| Markdown | 0 | 151 | 75 | 4 |
+| Text | 0 | 142 | 51 | 5 |
+
 ## Source
 
 - **Upstream**: <https://github.com/maaslalani/invoice>
@@ -22,6 +32,25 @@ x install invoice
 - **Latest**: `v0.1.0` (2023-06-29)
 - **Last commit**: 2023-11-30
 - **Assets in release**: 9
+
+## Popularity
+
+- **Stars**: 2,192 · **Forks**: 114 · **Open issues**: 24 · **Contributors**: 7
+
+## Totals (cumulative)
+
+- **Releases**: 1 · **Merged PRs**: 13 · **Open PRs**: 6 · **Closed issues**: 5 · **Open issues**: 19 · **Commits**: 45
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-12 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-12 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-14 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-09-15 | 0 | 0 | 1 | 0 | 0 | 0 |
+| last720d | 2024-09-20 | 0 | 0 | 2 | 0 | 1 | 0 |
 
 ## Release assets
 
@@ -37,31 +66,14 @@ x install invoice
 | [invoice_0.1.0_windows_amd64.tar.gz](https://github.com/maaslalani/invoice/releases/download/v0.1.0/invoice_0.1.0_windows_amd64.tar.gz) | 3.5 MiB | `native/win/x64` |
 | [invoice_0.1.0_windows_arm64.tar.gz](https://github.com/maaslalani/invoice/releases/download/v0.1.0/invoice_0.1.0_windows_arm64.tar.gz) | 3.2 MiB | `native/win/arm64` |
 
-## Popularity
+## Distribution status
 
-- **Stars**: 2,193 · **Forks**: 114 · **Open issues**: 24 · **Contributors**: 7
+Reported by **14** distros on [repology.org](https://repology.org/project/invoice). **12** are ✅ on the latest upstream release, **0** are ⚠️ on an older version.
 
-## Totals (cumulative)
-
-- **Releases**: 1 · **Merged PRs**: 13 · **Open PRs**: 6 · **Closed issues**: 5 · **Open issues**: 19 · **Commits**: 45
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-12 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-09-15 | 0 | 0 | 1 | 0 | 0 | 0 |
-
-## Code size
-
-Total: **398** lines of code across **13** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Go | 398 | 2 | 70 | 4 |
-| Markdown | 0 | 151 | 75 | 4 |
-| Text | 0 | 142 | 51 | 5 |
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `0.1.0` | ✅ latest |
+| Nix unstable | `0.1.0` | ✅ latest |
 
 ## Improve this data
 
@@ -72,4 +84,4 @@ Install metadata for invoice lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:07:24Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T20:15:17Z._
