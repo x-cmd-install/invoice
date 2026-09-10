@@ -1,0 +1,155 @@
+- repo: aur
+  srcname: invoice
+  binname: invoice
+  visiblename: invoice
+  version: 0.1.0
+  origversion: 0.1.0-1
+  status: newest
+  summary: Command line invoice generator
+  maintainers:
+    - amolith@aur
+  licenses:
+    - MIT
+- repo: aur
+  srcname: invoice-bin
+  binname: invoice-bin
+  visiblename: invoice-bin
+  version: 0.1.0
+  origversion: 0.1.0-1
+  status: newest
+  summary: Command line invoice generator
+  maintainers:
+    - amolith@aur
+  licenses:
+    - MIT
+- repo: aur
+  srcname: invoice-git
+  binname: invoice-git
+  visiblename: invoice-git
+  version: v0.1.0.r11.g0fb2e9d
+  origversion: v0.1.0.r11.g0fb2e9d-1
+  status: rolling
+  summary: Command line invoice generator
+  maintainers:
+    - amolith@aur
+  licenses:
+    - MIT
+- repo: gentoo_ovl_guru
+  srcname: app-office/invoice
+  visiblename: app-office/invoice
+  version: 0.1.0
+  origversion: null
+  status: newest
+  summary: Generate invoices from the command line
+  maintainers:
+    - freijon@pm.me
+  licenses:
+    - MIT
+  categories:
+    - app-office
+- repo: homebrew
+  srcname: invoice
+  visiblename: invoice
+  version: 0.1.0
+  origversion: null
+  status: newest
+  summary: Command-line invoice generator
+- repo: homebrew
+  srcname: invoice
+  visiblename: invoice
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Command-line invoice generator
+- repo: liguros_stable
+  srcname: app-office/invoice
+  visiblename: app-office/invoice
+  version: 0.1.0
+  origversion: null
+  status: newest
+  summary: Generate invoices from the command line
+  maintainers:
+    - freijon@pm.me
+  licenses:
+    - MIT
+  categories:
+    - app-office
+- repo: liguros_develop
+  srcname: app-office/invoice
+  visiblename: app-office/invoice
+  version: 0.1.0
+  origversion: null
+  status: newest
+  summary: Generate invoices from the command line
+  maintainers:
+    - freijon@pm.me
+  licenses:
+    - MIT
+  categories:
+    - app-office
+- repo: nix_stable_24_05
+  srcname: invoice
+  visiblename: invoice
+  version: 0.1.0
+  origversion: null
+  status: newest
+  summary: Command line invoice generator
+  maintainers:
+    - 7rat13@gmail.com
+  licenses:
+    - MIT
+- repo: nix_stable_24_11
+  srcname: invoice
+  visiblename: invoice
+  version: 0.1.0
+  origversion: null
+  status: newest
+  summary: Command line invoice generator
+  maintainers:
+    - 7rat13@gmail.com
+  licenses:
+    - MIT
+- repo: nix_stable_25_05
+  srcname: invoice
+  visiblename: invoice
+  version: 0.1.0
+  origversion: null
+  status: newest
+  summary: Command line invoice generator
+  maintainers:
+    - 7rat13@gmail.com
+  licenses:
+    - MIT
+- repo: nix_stable_25_11
+  srcname: invoice
+  visiblename: invoice
+  version: 0.1.0
+  origversion: null
+  status: newest
+  summary: Command line invoice generator
+  maintainers:
+    - 7rat13@gmail.com
+  licenses:
+    - MIT
+- repo: nix_stable_26_05
+  srcname: invoice
+  visiblename: invoice
+  version: 0.1.0
+  origversion: null
+  status: newest
+  summary: Command line invoice generator
+  maintainers:
+    - fallback-mnt-nix@repology
+  licenses:
+    - MIT
+- repo: nix_unstable
+  srcname: invoice
+  visiblename: invoice
+  version: 0.1.0
+  origversion: null
+  status: newest
+  summary: Command line invoice generator
+  maintainers:
+    - fallback-mnt-nix@repology
+  licenses:
+    - MIT
