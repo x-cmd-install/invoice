@@ -1,27 +1,12 @@
-- repo: homebrew
+- repo: nix_unstable
   srcname: invoice
   visiblename: invoice
   version: 0.1.0
   origversion: null
-  status: newest
-  summary: Command-line invoice generator
-- repo: homebrew
-  srcname: invoice
-  visiblename: invoice
-  version: HEAD
-  origversion: null
-  status: rolling
-  summary: Command-line invoice generator
-- repo: aur
-  srcname: invoice
-  binname: invoice
-  visiblename: invoice
-  version: 0.1.0
-  origversion: 0.1.0-1
   status: newest
   summary: Command line invoice generator
   maintainers:
-    - amolith@aur
+    - fallback-mnt-nix@repology
   licenses:
     - MIT
 - repo: aur
@@ -33,7 +18,19 @@
   status: newest
   summary: Command line invoice generator
   maintainers:
-    - amolith@aur
+    - fallback-mnt-aur@repology
+  licenses:
+    - MIT
+- repo: aur
+  srcname: invoice
+  binname: invoice
+  visiblename: invoice
+  version: 0.1.0
+  origversion: 0.1.0-1
+  status: newest
+  summary: Command line invoice generator
+  maintainers:
+    - fallback-mnt-aur@repology
   licenses:
     - MIT
 - repo: aur
@@ -45,7 +42,7 @@
   status: rolling
   summary: Command line invoice generator
   maintainers:
-    - amolith@aur
+    - fallback-mnt-aur@repology
   licenses:
     - MIT
 - repo: gentoo_ovl_guru
@@ -61,6 +58,20 @@
     - MIT
   categories:
     - app-office
+- repo: homebrew
+  srcname: invoice
+  visiblename: invoice
+  version: 0.1.0
+  origversion: null
+  status: newest
+  summary: Command-line invoice generator
+- repo: homebrew
+  srcname: invoice
+  visiblename: invoice
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Command-line invoice generator
 - repo: liguros_stable
   srcname: app-office/invoice
   visiblename: app-office/invoice
@@ -132,17 +143,6 @@
   licenses:
     - MIT
 - repo: nix_stable_26_05
-  srcname: invoice
-  visiblename: invoice
-  version: 0.1.0
-  origversion: null
-  status: newest
-  summary: Command line invoice generator
-  maintainers:
-    - fallback-mnt-nix@repology
-  licenses:
-    - MIT
-- repo: nix_unstable
   srcname: invoice
   visiblename: invoice
   version: 0.1.0
